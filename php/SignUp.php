@@ -21,6 +21,7 @@
 				<div>
 					Email*:
 			   		<input type="text" id="mail" name="mail" style="width: 17%">
+					   Deberas introducir un email valido
 				</div>
 				<br/>
 				<div>
@@ -57,7 +58,7 @@
 			if(isset($_POST['tipousuario'], $_POST['mail'],$_POST['nombre'],$_POST['apellidos'], $_POST['password'], $_POST['password2'])){
 			
 				//Validacion del servidor
-				$mailusuario= '/^(([a-zA-Z]) | ([a-zA-Z] +(\.)+[a-zA-Z]))+(@gmail\.| @hotmail\.|@ehu\.)+(es|com|eus)$/';
+
 				$contraseña = $_REQUEST['password'];
 				$contraseña2 = $_REQUEST['password2'];
 
@@ -65,7 +66,7 @@
 					echo("<script>alert('No se permiten campos vacios')</script>");
 					echo("<script>window.location = 'SignUp.php'</script>");
 				}
-				elseif ((!preg_match($mailusuario, $_POST['mail']))){
+				elseif ((!preg_match("/^([a-zA-Z0-9])+([a-zA-Z0-9\._-])*@([a-zA-Z_-])+([a-zA-Z\._-]+)+$/", $_POST['mail']))){
 					echo("<script>alert('El correo introducido no tiene la estructura adecuada')</script>");
 					echo("<script>window.location = 'SignUp.php'</script>");
 				}
