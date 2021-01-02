@@ -9,7 +9,7 @@
     <div>
       <h1>BuyShareSell</h1>
       
-      <h2>¡Tu tienda online!</h2>
+      <h2>¡Tu tienda online de todo tipo de articulos!</h2>
 	  <img src="../images/inicio.png" style ="margin-left: 300pt; margin-top: 50pt; height: 290px; float: left; float: top" >
     </div>
   </section>
