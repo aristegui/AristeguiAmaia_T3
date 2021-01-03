@@ -17,7 +17,7 @@
 		<br/><br/>
 		<span style="color:black ;font-weight: bold;font-family: Verdana;">Email: aaristegui005@ikasle.ehu.eus</span>
 		<br/><br/>
-		<img src="../images/avatarAmaia.png" style ="width: 200px; center: 110pt; float: center" >
+		<img src="../images/avatar.png" style ="width: 200px; center: 110pt; float: center" >
 	</div>
 	
 	
