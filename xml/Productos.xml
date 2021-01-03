@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="ShowXmlProductos.xsl"?>
 <assessmentItems>
-	<assessmentItem categoria="Bolso" vendedor="pruebassar@gmail.com">
+	<assessmentItem categoria="Bolso Zara" vendedor="amaia@ehu.es">
 		<itemBody>
 			<p>Producto sin uso, perfecto para ocasiones especiales</p>
 		</itemBody>
@@ -22,7 +22,7 @@
 			</value>
 		</precio>
 	</assessmentItem>
-		<assessmentItem categoria="Jeans Zara" vendedor="pruebassar@gmail.com">
+		<assessmentItem categoria="Jeans Mango" vendedor="amaia@ehu.es">
 		<itemBody>
 			<p>Jeans muy usados pero todavia conservan buen aspecto</p>
 		</itemBody>
@@ -43,4 +43,4 @@
 		</precio>
 		
 	</assessmentItem>
-<assessmentItem categoria="1" vendedor="pruebassar@gmail.com"><itemBody><p>Brilli-brilli</p></itemBody><articulo><a>Falda</a></articulo><color><c>Negruzco</c></color><precio><value>35€</value></precio></assessmentItem><assessmentItem categoria="1" vendedor="pruebassar@gmail.com"><itemBody><p>Jeans en estado satisfactorio, tienen alguna ortura en la parte de las rodillas, pero casi ni se nota. </p></itemBody><articulo><a>Jeans azules</a></articulo><color><c>azul ajado</c></color><precio><value>8€</value></precio></assessmentItem><assessmentItem categoria="1" vendedor="pruebassar@gmail.com"><itemBody><p>Abrigo de uso en invierno de color marron. Es talla unica, y se puede llevar con cualquier cosa, y sobredoto para usarlo en primavera.</p></itemBody><articulo><a>Abrigo Oversize</a></articulo><color><c>Marron claro</c></color><precio><value>67€</value></precio></assessmentItem><assessmentItem categoria="1" vendedor="pruebassar@gmail.com"><itemBody><p>De tiro ajustado, de corte tobillera. </p></itemBody><articulo><a>Pantalones pitillo</a></articulo><color><c>Verde militar</c></color><precio><value>7,5€</value></precio></assessmentItem><assessmentItem categoria="2" vendedor="pruebassar@gmail.com"><itemBody><p>Sandalias de cuero especial verano para usar con calcetines. </p></itemBody><articulo><a>Sandalias cerradas</a></articulo><color><c>Marron oscuro</c></color><precio><value>25€</value></precio></assessmentItem><assessmentItem categoria="3" vendedor="pruebassar@gmail.com"><itemBody><p>Especial para inviernos de mucho frio, para no encender la calefacción. </p></itemBody><articulo><a>Pijama de lana</a></articulo><color><c>Azul marino</c></color><precio><value>9€</value></precio></assessmentItem><assessmentItem categoria="3" vendedor="amaia@ehu.es"><itemBody><p>Pienso de la marca Acana con carne deshidratada</p></itemBody><articulo><a>Pienso cachorros</a></articulo><color><c>sin color</c></color><precio><value>46€</value></precio></assessmentItem></assessmentItems>
+	<assessmentItem categoria="3" vendedor="amaia@ehu.es"><itemBody><p>Pienso de la marca Acana con carne deshidratada</p></itemBody><articulo><a>Pienso cachorros</a></articulo><color><c>sin color</c></color><precio><value>46€</value></precio></assessmentItem><assessmentItem categoria="3" vendedor="amaia@ehu.es"><itemBody><p>Arnés en tipo H, de uso diario. Realizado a mano. </p></itemBody><articulo><a>Arnés en H</a></articulo><color><c>Rojo</c></color><precio><value>35€</value></precio></assessmentItem><assessmentItem categoria="3" vendedor="amaia@ehu.es"><itemBody><p>Calcetines de lana de invierno. Unisex.</p></itemBody><articulo><a>Calcetines de lana</a></articulo><color><c>blanco</c></color><precio><value>9€</value></precio></assessmentItem><assessmentItem categoria="3" vendedor="amaia@ehu.es"><itemBody><p>Leche sin productos químicos, directo de la vaca. </p></itemBody><articulo><a>Leche</a></articulo><color><c>blanco</c></color><precio><value>14€</value></precio></assessmentItem></assessmentItems>

@@ -3,7 +3,7 @@
 <assessmentItems>
 	<assessmentItem typeProduct="Prueba1" Seller="sar@ehu.eus">
 		<itemBody>
-			<p>Primera prueba de sar</p>
+			<p>Primera prueba</p>
 		</itemBody>
 		<priceProduct>
 			<value>
@@ -18,7 +18,7 @@
 	</assessmentItem>
 		<assessmentItem typeProduct="Prueba2" Seller="sar@ehu.eus">
 		<itemBody>
-			<p>Segunda prueba de sar</p>
+			<p>Segunda prueba</p>
 		</itemBody>
 		<priceProduct>
 			<value>
